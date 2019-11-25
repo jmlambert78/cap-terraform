@@ -8,3 +8,9 @@ scf*/
 *.tfvars
 **/temp/
 le-prod-cert-issuer.yaml
+*/.envvar.sh
+*/aksk8scfg
+*/capConfigurationFile.yaml
+*/initVars.sh
+*/metrics/*
+

@@ -6,8 +6,8 @@ prometheus:
   kubeStateMetrics:
     enabled: true
 nginx:
-  username: xxxx
-  password: xxxxx
+  username: linux
+  password: linux
 services:
   loadbalanced: true
 
